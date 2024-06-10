@@ -8,7 +8,7 @@ public class testfile {
 		int b = 2;
 		int c = a + b;
 		System.out.println(c);
-
+		System.out.println("테스트중입니다.");
 	}
 
 }
